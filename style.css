@@ -1,0 +1,42 @@
+body {
+  background: url("football-field.png") no-repeat fixed center;
+  background-size: 480px 700px;
+  background-position: top;
+  margin: auto;
+  max-width: 480px;
+}
+img {
+  width: 35px;
+  height: 35px;
+}
+.left-forward {
+  margin-left: 155px;
+  margin-top: 100px;
+}
+.right-forward {
+  margin-left: 100px;
+}
+.margin-top {
+  margin-top: 60px;
+}
+.middle {
+  margin-left: 222.5px; 
+}
+.left-midfield {
+  margin-left: 110px;
+}
+.right-midfield {
+  margin-left: 190px;
+}
+.left-back {
+  margin-left: 50px;
+}
+.right-back {
+  margin-left: 310px;
+}
+.left-centerback {
+  margin-left: 155px;
+}
+.right-centerback {
+  margin-left: 100px;
+}
