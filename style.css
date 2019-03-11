@@ -11,16 +11,16 @@ img {
 }
 .left-forward {
   margin-left: 155px;
-  margin-top: 100px;
+  margin-top: 70px;
 }
 .right-forward {
   margin-left: 100px;
 }
 .margin-top {
-  margin-top: 60px;
+  margin-top: 0px;
 }
 .middle {
-  margin-left: 222.5px; 
+  margin-left: 224.5px; 
 }
 .left-midfield {
   margin-left: 110px;
@@ -39,4 +39,13 @@ img {
 }
 .right-centerback {
   margin-left: 100px;
+}
+.no-margin {
+  margin-top: 0px;
+}
+p {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  text-align: center;
 }
