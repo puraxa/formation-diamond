@@ -1,4 +1,5 @@
 body {
+  position: relative;
   background: url("football-field.png") no-repeat fixed center;
   background-size: 480px 700px;
   background-position: top;
@@ -49,4 +50,53 @@ p {
   width: 35px;
   height: 35px;
   text-align: center;
+}
+h6 { 
+  position: absolute; 
+  width: 20px; 
+  color: white;
+}
+.lf {
+  top: 55px;
+  left: 165px;
+}
+.rf {
+  top: 55px;
+  left: 305px;
+}
+.amf {
+  top: 150px;
+  left: 238.5px;
+}
+.lmf {
+  top: 245px;
+  left: 124px;
+}
+.rmf {
+  top: 245px;
+  left: 354px;
+}
+.dmf {
+  top: 340px;
+  left: 238.5px;
+}
+.lb {
+  top: 430px;
+  left: 64px;
+}
+.rb {
+  top: 430px;
+  left: 414px;
+}
+.lcb {
+  top: 505px;
+  left: 168.5px;
+}
+.rcb {
+  top: 505px;
+  left: 309.5px;
+}
+.gk {
+  left: 238.5px;
+  top: 600px;
 }
